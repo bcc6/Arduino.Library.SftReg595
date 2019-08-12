@@ -1,3 +1,10 @@
+/*
+ * 74HC595 Shift registers library
+ * https://github.com/bcc6/Arduino.Library.SftReg595
+ * Copyright (c) Ozzy Chiu
+ * Licensed under the WTFPL license.
+ */
+
 #ifndef SNDLSS_SFTREG595_H
 #define SNDLSS_SFTREG595_H
 
